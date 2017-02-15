@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.github</groupId>
-	<artifactId>github-analytics-stub-runner-boot</artifactId>
+	<artifactId>stub-runner-boot</artifactId>
 	<version>0.0.1.M1</version>
 	<packaging>jar</packaging>
 
